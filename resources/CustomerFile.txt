@@ -1,0 +1,2 @@
+CUSTOMER   Name: Jean Jacques  ID: 12          E-mail: JeanJacqueMetEenC@msn.be  Money: 10.00€  
+Jean Jacques,12,JeanJacqueMetEenC@msn.be,10.00
